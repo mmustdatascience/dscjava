@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+predictiveanalytics/sentiment-analysis/frontend/node_modules
+predictiveanalytics/sentiment-analysis/frontend/.pnp
+predictiveanalytics/sentiment-analysis/frontend/.pnp.js
+
+# testing
+predictiveanalytics/sentiment-analysis/frontend/coverage
+
+# production
+predictiveanalytics/sentiment-analysis/frontend/build
+
+# misc
+predictiveanalytics/sentiment-analysis/frontend/.DS_Store
+predictiveanalytics/sentiment-analysis/frontend/.env.local
+predictiveanalytics/sentiment-analysis/frontend/.env.development.local
+predictiveanalytics/sentiment-analysis/frontend/.env.test.local
+predictiveanalytics/sentiment-analysis/frontend/.env.production.local
+
+predictiveanalytics/sentiment-analysis/frontend/npm-debug.log*
+predictiveanalytics/sentiment-analysis/frontend/yarn-debug.log*
+predictiveanalytics/sentiment-analysis/frontend/yarn-error.log*
